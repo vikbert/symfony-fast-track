@@ -13,6 +13,7 @@ ConferenceController
 
 ## Topics
 - debug variables
+- symfony with test database
 - 
 
 # FAQ 
