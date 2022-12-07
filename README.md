@@ -27,6 +27,7 @@ export SYMFONY_IDE=vscode
 # Notice
 - we moved everything to attributes to have the clean syntax.
 - doctrine is going to remove the table, if there is no entity exist for that.
+- ❓ slug does not work
 
 `akismet.com` API key 
 ```
