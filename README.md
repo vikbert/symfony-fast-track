@@ -23,8 +23,6 @@ ConferenceController
 export SYMFONY_IDE=vscode
 ```
 
-
-
 # Notice
 - we moved everything to attributes to have the clean syntax.
 - doctrine is going to remove the table, if there is no entity exist for that.
@@ -51,5 +49,7 @@ attribute was introduced in php8
 symfony recommend the attributes syntax
 <https://symfony.com/doc/current/best_practices.html#best-practice-controller-annotations>
 
+scoped http client config
+<https://symfony.com/doc/current/http_client.html>
 
 
