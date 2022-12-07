@@ -29,6 +29,11 @@ export SYMFONY_IDE=vscode
 - we moved everything to attributes to have the clean syntax.
 - doctrine is going to remove the table, if there is no entity exist for that.
 
+`akismet.com` API key 
+```
+5d43020ed766
+```
+
 # Repository
 `git remote add origin https://github.com/nicolas-grekas/ws-winter`
 
