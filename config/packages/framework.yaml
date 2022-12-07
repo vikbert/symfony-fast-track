@@ -17,6 +17,10 @@ framework:
     #fragments: true
     php_errors:
         log: true
+    http_client:
+        scoped_clients:
+            akismet.client:
+                base_uri: 'https://%env(AKISMET_KEY)%.rest.akismet.com'
 
 when@test:
     framework:
